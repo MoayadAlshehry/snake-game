@@ -34,6 +34,7 @@ python main.py
 - ood.py: Food generation logic.
 - scoreboard.py: Score tracking and high score saving logic.
 - data.txt: Stores the persistent high score.
+- food.py: Source module/asset.
 
 ## Requirements
 - Python 3.9+
