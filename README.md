@@ -1,48 +1,43 @@
-# Classic Snake Game
+# Classic Nokia Snake Game
 
 ## Description
-A fully functional replica of the classic Nokia Snake game built with Python's Turtle graphics library. The player controls a snake that grows longer as it consumes food, with the goal of surviving as long as possible without hitting the walls or its own tail.
+Replica of Nokia Snake arcade game created using Turtle graphics.
 
 ## Features
-- Smooth snake movement and keyboard controls.
-- Dynamic food generation and collision detection.
-- Real-time score tracking.
-- High score persistence: Reads and writes the all-time high score to a local text file.
+- Keyboard steering
+- Food spawning & collisions
+- High score file persistence
 
 ## Technologies
 - Python 3.x
-- 	urtle module for rendering graphics and handling inputs.
-- Object-Oriented Programming (OOP) architecture.
+- turtle
 
 ## Installation
 1. Clone the repository:
-   ````bash
+   ```bash
    git clone https://github.com/MoayadAlshehry/snake-game.git
    cd snake-game
-   `
-2. No external dependencies are required.
+   ```
 
 ## Usage
-Run the game script to start playing:
-````bash
+Run the application:
+```bash
 python main.py
-`
+```
 
 ## Project Structure
-- main.py: Game loop and screen configuration.
-- snake.py: Snake object logic and movement.
-- ood.py: Food generation logic.
-- scoreboard.py: Score tracking and high score saving logic.
-- data.txt: Stores the persistent high score.
-- food.py: Source module/asset.
+- `main.py`: Source module/asset.
+- `snake.py`: Source module/asset.
+- `food.py`: Source module/asset.
+- `scoreboard.py`: Source module/asset.
+- `data.txt`: Source module/asset.
+- `LICENSE`: MIT License.
 
 ## Requirements
 - Python 3.9+
 
 ## Future Improvements
-- Add difficulty levels to adjust the speed of the snake.
-- Implement an overarching menu system.
-- Add sound effects.
+- Maintenance and enhancement updates.
 
 ## License
 This project is licensed under the MIT License.
