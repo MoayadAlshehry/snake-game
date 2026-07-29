@@ -15,8 +15,8 @@ Replica of Nokia Snake arcade game created using Turtle graphics.
 ## Installation
 1. Clone the repository:
 ```bash
-   git clone https://github.com/MoayadAlshehry/snake-game.git
-   cd snake-game
+git clone https://github.com/MoayadAlshehry/snake-game.git
+cd snake-game
 ```
 
 ## Usage
