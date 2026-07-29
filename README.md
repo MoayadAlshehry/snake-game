@@ -16,7 +16,7 @@ A fully functional replica of the classic Nokia Snake game built with Python's T
 
 ## Installation
 1. Clone the repository:
-   `ash
+   ````bash
    git clone https://github.com/MoayadAlshehry/snake-game.git
    cd snake-game
    `
@@ -24,7 +24,7 @@ A fully functional replica of the classic Nokia Snake game built with Python's T
 
 ## Usage
 Run the game script to start playing:
-`ash
+````bash
 python main.py
 `
 
